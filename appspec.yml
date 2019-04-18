@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /demopipeline_rajni.war
+  - source: /target/demopipeline_rajni.war
     destination: /opt/tomcat/webapps/
