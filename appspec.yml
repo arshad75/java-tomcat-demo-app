@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: demo-1/
-    destination: /usr/local/tomcat/webapps/
+    destination: /opt/tomcat/webapps/
